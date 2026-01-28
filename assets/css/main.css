@@ -7,9 +7,9 @@
 .header {
     display: flex;
 
-
-
     gap: 232.5px;
+
+
 }
 
 .list1 {
@@ -39,4 +39,30 @@
 .headerRight {
 
     padding-top: 31px;
+
+}
+
+.card {
+    width: calc((100% - 90px) / 4);
+}
+
+.e-commerce-card {
+    background-color: brown;
+
+    text-align: center;
+    display: flex;
+
+    gap: 30px;
+    padding-top: 80px;
+    padding-bottom: 50px;
+
+
+}
+
+image {
+    width: 100%;
+}
+
+p {
+    margin-top: 17px;
 }
