@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.header {
+    display: flex;
+
+
+
+    gap: 232.5px;
+}
+
+.list1 {
+    display: flex;
+    gap: 60px;
+    list-style-type: none;
+
+
+}
+
+.list2 {
+    display: flex;
+    gap: 24px;
+    list-style-type: none;
+
+}
+
+.logo {
+    padding-top: 21.84px;
+    padding-bottom: 21.84px;
+}
+
+.menue {
+    padding-top: 36px;
+}
+
+.headerRight {
+
+    padding-top: 31px;
+}
